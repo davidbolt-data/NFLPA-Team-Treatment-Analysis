@@ -32,4 +32,7 @@ Letter grades were converted to numeric scores to allow quantitative comparison 
 ## Visualization
 A Tableau dashboard was created to compare team rankings and category performance.
 
+## Future Improvements
+Future analysis could explore correlations between team spending, facilities investment, and player satisfaction scores. Additional seasons of NFLPA report card data could also be incorporated to analyze trends over time.
+
 ![NFL Dashboard](visualizations/dashboard.png)

@@ -35,4 +35,4 @@ A Tableau dashboard was created to compare team rankings and category performanc
 ## Future Improvements
 Future analysis could explore correlations between team spending, facilities investment, and player satisfaction scores. Additional seasons of NFLPA report card data could also be incorporated to analyze trends over time.
 
-![NFL Dashboard](visualizations/dashboard.png)
+![[NFL Dashboard](visualizations/dashboard.png](https://github.com/davidbolt-data/NFLPA-Team-Treatment-Analysis/blob/main/vizualizations/NFLPA%20Organizational%20Health%20Index.png))
